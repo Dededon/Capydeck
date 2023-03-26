@@ -1,0 +1,15 @@
+{
+    "id": "gameover_exodus",
+    "characterId": -1,
+    "cardText": "You escaped from the labyrinth.",
+    "leftAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

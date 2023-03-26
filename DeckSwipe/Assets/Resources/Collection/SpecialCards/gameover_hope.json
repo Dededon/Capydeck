@@ -1,0 +1,15 @@
+{
+    "id": "trueend_exodus",
+    "characterId": -1,
+    "cardText": "Finally you did escape.",
+    "leftAction": {
+        "text": "Congratulations!",
+        "followup": [],
+        "specialFollowup": []
+    },
+    "rightAction": {
+        "text": "Congratulations",
+        "followup": [],
+        "specialFollowup": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 10,
+  "characterId": 3,
+  "cardText": "The OK Hedgehog offer choice to exodus.",
+  "leftAction": {
+    "text": "No",
+    "statsModification": {
+      "coal": 0,
+      "food": 0,
+      "health": 0,
+      "hope": 0
+    },
+    "followup": [],
+    "specialFollowup": [
+      {
+        "id": "gameover_food",
+        "delay": 1
+      }
+    ]
+  },
+  "rightAction": {
+    "text": "Yes, wait for 1 turn",
+    "statsModification": {
+      "coal": 5,
+      "food": 5,
+      "health": 5,
+      "hope": 5,
+      "true_end": 1
+    },
+    "followup": [
+    ],
+    "specialFollowup": [
+      
+    ]
+  },
+  "cardPrerequisites": [],
+  "specialCardPrerequisites": []
+}
